@@ -1,0 +1,56 @@
+📚 Sistema de Cadastro de Alunos
+
+Este projeto é um sistema simples de cadastro de alunos desenvolvido para a disciplina de Desenvolvimento Web e Cliente-Servidor.
+
+🚀 Funcionalidades
+
+- Cadastro de alunos com nome, idade e nota
+- Listagem de alunos em tabela
+- Remoção de alunos
+- Validação de dados
+- Interface simples e organizada
+
+🧱 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+📋 Requisitos atendidos
+
+🌐 Web (HTML + CSS)
+
+- Uso de textos, listas, links e imagens
+- Uso de tabelas e formulários
+- Estilização com CSS (cores, layout e organização)
+- Estrutura visual organizada
+
+⚙️ Cliente-Servidor (JavaScript)
+
+- Uso de variáveis
+- Uso de arrays
+- Uso de funções
+- Uso de estruturas de controle (if, for)
+- Uso de objetos e classes
+
+📂 Estrutura do projeto
+
+- "index.html" → estrutura da página
+- "style.css" → estilização
+- "script.js" → lógica do sistema
+
+▶️ Como executar
+
+1. Baixe ou clone o repositório
+2. Abra o arquivo "index.html" no navegador
+
+💡 Melhorias futuras
+
+- Cálculo da média dos alunos
+- Indicação de aprovado/reprovado
+- Armazenamento em localStorage
+- Melhorias no design
+
+👨‍💻 Autor
+
+Projeto desenvolvido para fins educacionais.
